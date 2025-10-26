@@ -1,6 +1,6 @@
 # Abdelrahman Salah
 
-**Software Engineer | Microservices Architecture | Golang Engineer since 2023** 🚀
+**Software Engineer | Microservices Architecture | Golang Engineer since 2023**
 
 With **9+ years** in web development, I specialize in building scalable, high-performance applications. Since transitioning to a dedicated **Golang Engineer role in 2023**, I've focused on leveraging **microservices architecture** to build and engineer complex, distributed systems.
 
