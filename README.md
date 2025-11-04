@@ -32,7 +32,7 @@ My extensive background as a front-end engineer informs my holistic full-stack a
 
 My proficiency spans modern distributed systems and robust web development:
 
-- **Backend:** **Golang** (Primary), **gRPC**, **Microservices**, **Apache Pulsar**, **CQRS**, **Event Sourcing**, **OpenTelemetry**.
+- **Backend:** **Golang** (Primary), **NestJS**, **gRPC**, **Microservices**, **Apache Pulsar**, **CQRS**, **Event Sourcing**, **OpenTelemetry**.
 - **Front-End:** **React**, **Angular**, **Nuxt**, **TypeScript**, **Laravel**, **Tailwind CSS**.
 - **DevOps:** Docker, Kubernetes, GitHub Actions.
 - **Tools:** Leverage AI-assisted development with Model Context Protocol (MCP) to maintain productivity and code quality.
